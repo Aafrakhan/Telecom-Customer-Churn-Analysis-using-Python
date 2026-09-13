@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis 
+# 📊 Telecom Customer Churn Analysis 
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ The main objectives of this project are to:
 
 📂 Dataset
 
-The dataset contains 7,043 customer records and 21 columns.
+Telecom dataset contains 7,043 customer records and 21 columns.
 
 Key Features
 
